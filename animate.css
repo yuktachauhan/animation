@@ -1,0 +1,17 @@
+body{
+	background-color:yellow;
+}
+h1{
+	color:purple;
+	background-color: orange;
+  text-align: center;
+}
+p{
+	color:blue;
+	background-color:red;
+	text-align:center;
+	font-size: 30px;
+}
+form{
+	color: green;
+}
